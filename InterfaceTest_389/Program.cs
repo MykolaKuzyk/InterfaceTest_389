@@ -14,6 +14,7 @@ namespace InterfaceTest_389
            if(fingersTheClown is IScaryClown newScaryCloen)
             {
                 newScaryCloen.ScareLittleChildren();
+                newScaryCloen.ScareAdults();
             }
         
         }
